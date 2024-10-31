@@ -23,11 +23,11 @@ I'm a **Computer Engineering Student** @ Imperial Collehe London with a passion 
 ### 🚀 Highlighted Projects
 - **Imperial IAC Labs**
   Hands-on lab project at Imperial College London on SystemVerilog through the Instruction Architecture module.
-  - [Lab1 Counter](https://github.com/3lson/Lab1-Counter):
-  - [Lab2 SigGen](https://github.com/3lson/IAC-Lab2-SigGen): 
+  - [Lab1 Counter](https://github.com/3lson/Lab1-Counter)
+  - [Lab2 SigGen](https://github.com/3lson/IAC-Lab2-SigGen) 
   - [Lab 3 FSM](https://github.com/3lson/IAC-Lab3-FSM)
 
-- [ASL Alphabet Recognition System]](https://github.com/3lson/ASLModelProj)
+- [ASL Alphabet Recognition System](https://github.com/3lson/ASLModelProj)
 - [RISCV Emulator Assembler](https://github.com/3lson/RISCVEmulatorandAssemblerVer2.0)
 
 ### 📊 GitHub Stats
