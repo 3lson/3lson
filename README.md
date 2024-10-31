@@ -1,10 +1,10 @@
 # Hi there, I'm Elson 👋
 
-I'm a **Computer Engineering Student** @ Imperial Collehe London with a passion for **Quantum Computing**, **Machine Learning**, and **Hardware Engineering**.
+I'm a **Computer Engineering Student** @ Imperial College London with a passion for **Quantum Computing**, **Machine Learning**, and **Hardware Engineering**.
 
 ### 🌐 Connect with me:
-- [Portfolio]([https://your-portfolio-url.com](https://d2jecik5c1jnhj.cloudfront.net/))  
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-url/](https://www.linkedin.com/in/elson-tho-267190215/)) 
+- [Portfolio](https://d2jecik5c1jnhj.cloudfront.net/) 
+- [LinkedIn](https://www.linkedin.com/in/elson-tho-267190215/) 
 
 ### 🛠️ Skills & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
