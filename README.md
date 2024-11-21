@@ -29,6 +29,7 @@ I'm a **Computer Engineering Student** @ Imperial College London with a passion 
 
 - [ASL Alphabet Recognition System](https://github.com/3lson/ASLModelProj)
 - [RISCV Emulator Assembler](https://github.com/3lson/RISCVEmulatorandAssemblerVer2.0)
+- [Black Scholes and BackTesting](https://github.com/3lson/BlackScholes-BackTesting)
 
 ### 📊 GitHub Stats
 ![3lson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3lson&show_icons=true&theme=default)
