@@ -19,7 +19,7 @@ I'm a **Computer Engineering Student** @ Imperial College London with a passion 
   Full implementation of a **5-stage pipelined RISC-V CPU** in SystemVerilog, including hazard detection, stalling, and forwarding.
 
 - [**World's Hardest Game FPGA Multiplayer**](https://github.com/3lson/FPGA_whg)  
-  A real-time multiplayer remake of The World's Hardest Game, where players use a DE10-Lite FPGA board (tilt-controlled via accelerometer) to move in-game. Features a hardware-accelerated FIR filter, a hybrid TCP/UDP networking stack, and a cloud backend (Go server + AWS DynamoDB) with persistent high scores.
+  A real-time multiplayer remake of The World's Hardest Game, where players use a **DE10-Lite FPGA** board (tilt-controlled via accelerometer) to move in-game. Features a hardware-accelerated FIR filter, a hybrid **TCP/UDP** networking stack, and a cloud backend **(Go server + AWS DynamoDB)** with persistent high scores.
 
 ---
 
