@@ -22,7 +22,7 @@ I'm a **Computer Engineering Student** @ Imperial College London with a passion 
   A real-time multiplayer remake of The World's Hardest Game, where players use a **DE10-Lite FPGA** board (tilt-controlled via accelerometer) to move in-game. Features a hardware-accelerated FIR filter, a hybrid **TCP/UDP** networking stack, and a cloud backend **(Go server + AWS DynamoDB)** with persistent high scores.
 
 - [**Hardware-Accelerated Mandelbrot Explorer**](https://github.com/3lson/Mandelbrot_FPGA)
-  Engineered a real-time Mandelbrot Set explorer by designing a parallel computation engine in SystemVerilog, creating a full-stack hardware/software co-design on a Zynq-7000 SoC. This hardware accelerator achieved an 82x performance speed-up over the CPU, with its parameters controlled dynamically through an interactive web UI built with Python and Flask.
+  Engineered a real-time Mandelbrot Set explorer by designing a parallel computation engine in **SystemVerilog**, creating a full-stack hardware/software co-design on a Zynq-7000 SoC. This hardware accelerator achieved an 82x performance speed-up over the CPU, with its parameters controlled dynamically through an interactive web UI built with Python and Flask.
 ---
 
 ## Connect with me
