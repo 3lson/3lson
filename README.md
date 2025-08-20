@@ -1,12 +1,12 @@
 # Hi there, I'm Elson 👋
 
-I'm a **Computer Engineering Student** @ Imperial College London with a passion for **Machine Learning** and **Hardware Engineering**.
+I'm a **Computer Engineering Student** @ Imperial College London with a passion for HPCs, FPGAs, Quantum, and Hardware Engineering.
 
 ---
 
 ## Highlight Projects
 
--[**Hardware-accelerated ITCH market data processor**](https://github.com/3lson/TickandTradeFPGA)
+- [**Hardware-accelerated ITCH market data processor**](https://github.com/3lson/TickandTradeFPGA)
 Hardware-accelerated processing of ITCH market data feeds using SystemVerilog. This project implements a full RTL pipeline to parse UDP packets and calculate a Simple Moving Average (SMA) indicator with nanosecond-level latency.
 
 - [**HADESRedDragonC_Compiler**](https://github.com/3lson/HADESRedDragonC_Compiler)  
@@ -21,7 +21,7 @@ Hardware-accelerated processing of ITCH market data feeds using SystemVerilog. T
 - [**Hardware-Accelerated Mandelbrot Explorer**](https://github.com/3lson/Mandelbrot_FPGA)
   Engineered a real-time Mandelbrot Set explorer by designing a parallel computation engine in **SystemVerilog**, creating a full-stack hardware/software co-design on a Zynq-7000 SoC. This hardware accelerator achieved an 82x performance speed-up over the CPU, with its parameters controlled dynamically through an interactive web UI built with Python and Flask.
 
-  - [**FPGA_Runner**](https://github.com/3lson/FPGA_Runner)  
+- [**FPGA_Runner**](https://github.com/3lson/FPGA_Runner)  
   Unity-based endless runner game **controlled using an FPGA accelerometer**. Real-time TCP communication links embedded input to 3D game movement.
 
 - [**InfoProcLabs**](https://github.com/3lson/InfoProcLabs)  
